@@ -1,4 +1,4 @@
-# how_gnn_ip
+# How graph neural network interatomic potentials extrapolate: Role of the message-passing algorithm
 
 This is a supplementary data for the paper titled "How graph neural network interatomic potentials extrapolate: Role of the message-passing algorithm".
 
